@@ -1,0 +1,38 @@
+﻿  Fractals.cpp
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(46,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(47,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(60,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(61,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(106,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(107,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(118,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(118,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(118,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(319,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(329,49): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(330,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(331,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(332,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(336,37): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(337,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(338,37): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(338,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(347,49): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(348,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(349,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(350,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(356,44): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(358,41): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(369,41): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(371,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(390,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(441,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(482,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(559,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(658,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(763,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(825,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(826,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(833,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\source\repos\hello\Fractals\Fractals\Fractals.cpp(834,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Fractals.vcxproj -> C:\Users\ASUS\source\repos\hello\Fractals\x64\Debug\Fractals.exe
